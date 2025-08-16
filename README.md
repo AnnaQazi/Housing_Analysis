@@ -1,14 +1,17 @@
-# 🏠 Housing Price Storytelling - Data Science Assignment
+# 🏠 Housing Price Storytelling – Data Science Assignment
 
-This project is a data storytelling assignment using a housing dataset. The goal was to explore and understand key trends in price, area, and bedrooms through descriptive statistics and visualizations.
+This assignment was all about data storytelling — not just crunching numbers, but turning them into insights that make sense in the real world. Using a housing dataset, I explored price, area, bedrooms, and categorical features to understand how they shape property values.
 
-We analyzed the distribution, central tendencies, spread, skewness, and outliers in the data to uncover hidden patterns. Insights were summarized in a clear narrative to simulate how a data scientist would communicate findings in a real-world scenario.
+I learned how to go beyond raw stats and visualizations by interpreting them in a way that highlights patterns, outliers, and market signals. For example, skewness showed how a handful of luxury properties push prices upward, while categorical features like guestroom or furnishing status revealed clear premium markers.
 
-## 📊 Key Skills Used:
+## 📊 What I Practiced & Learned:
 
-- Data Exploration (Pandas)
-- Statistical Analysis (mean, median, std, skew, kurtosis)
-- Visualization (Seaborn & Matplotlib)
-- Data Interpretation & Insight Writing
+Data Exploration (Pandas) → Cleaning, summarizing, and understanding numerical + categorical variables.
 
+Statistical Analysis → Using measures like mean, median, std, skewness, and kurtosis to interpret distributions.
 
+Visualization (Seaborn & Matplotlib) → Creating scatterplots, boxplots, countplots, and heatmaps to bring stats to life.
+
+Insight Writing → Converting plots into a narrative that explains why the pattern matters.
+
+Storytelling Mindset → Framing results like a data scientist, focusing on the so what? instead of just what.
